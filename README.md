@@ -7,4 +7,4 @@ apt install pip
 git clone https://github.com/pocox3useralt-ship-it/DD-od
 bash start.sh**
 
-![Start!](image.png)
+![Start!](4046203.png)
